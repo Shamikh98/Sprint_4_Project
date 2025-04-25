@@ -6,12 +6,8 @@ Link: [CLICK HERE](https://sprint-4-project-rbb5.onrender.com)
 
 ### Requirements used (as per suggested by the sprint description for Sprint 4):
 
-pandas==2.0.3
-
-scipy==1.11.1
-
-streamlit==1.25.0
-
-altair==5.0.1
-
-plotly==5.15.0
+- pandas==2.0.3
+- scipy==1.11.1
+- streamlit==1.25.0
+- altair==5.0.1
+- plotly==5.15.0
